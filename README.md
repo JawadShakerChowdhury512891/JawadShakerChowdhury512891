@@ -6,7 +6,7 @@
 
 
 <h2 align="center">Hey 👋, I'm Jawad Shaker Chowdhury</h2>
-##💫 About Me:##
+💫 **About Me**:
 I am a passionate Web Developer with a strong foundation in HTML, CSS, Java, Bootstrap, Tailwind CSS, and WordPress. I enjoy building clean, responsive, and user-friendly websites.<br><br>Currently, I am learning PHP, MySQL, and Laravel to become a full-stack developer.<br><br>I am an aspiring full-stack developer, continuously improving my skills and working on real-world projects to build efficient and scalable web applications.
 
 

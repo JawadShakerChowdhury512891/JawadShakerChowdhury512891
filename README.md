@@ -2,7 +2,7 @@
   <a href="" target="_blank">
     <img src="./Jawad Shaker Chy (githubrepo).jpeg" alt="">
   </a>
-</p><br>
+</p>
 
 
 <h2 align="center">Hey 👋, I'm Jawad Shaker Chowdhury</h2>

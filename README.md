@@ -1,8 +1,8 @@
 <p align="center">
   <a href="" target="_blank">
-    <img src="./Jawad Shaker Chy (githubrepo).jpeg" alt=""><br>
+    <img src="./Jawad Shaker Chy (githubrepo).jpeg" alt=""><
   </a>
-</p>
+</p><br>
 
 
 <h2 align="center">Hey 👋, I'm Jawad Shaker Chowdhury</h2>
